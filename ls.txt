@@ -1,0 +1,7 @@
+total 40
+drwxrwxr-x 2 hyeju hyeju  4096 11월 15 13:47 lib
+-rw-rw-r-- 1 hyeju hyeju     0 11월 15 13:58 ls.txt
+-rw-rw-r-- 2 hyeju hyeju  4742 11월 13 21:21 main.c
+-rw-rw-r-- 1 hyeju hyeju   450 11월 14 09:59 Makefile
+-rwxrwxr-x 1 hyeju hyeju 18640 11월 14 10:09 output
+-rw-r--r-- 1 hyeju hyeju    11 11월 15 13:45 test2.txt
